@@ -8,7 +8,7 @@ class Stopwatch extends Component {
       milliSeconds: '00',
       seconds: '00',
       minutes: '00',
-      isStop: false,
+      isStarted: false,
     }
   }
 
